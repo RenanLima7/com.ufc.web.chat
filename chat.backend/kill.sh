@@ -1,1 +1,1 @@
-sudo kill -9 $(lsof -t -i:8082)
+sudo kill -9 $(lsof -t -i:8080)
