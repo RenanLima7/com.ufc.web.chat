@@ -1,1 +1,1 @@
-USER=${USER} PASSWORD=${PASSWORD} DATABASE_URL=${DATABASE_URL} ./mvnw spring-boot:start
+DATABASE_URL=${DATABASE_URL} ./mvnw spring-boot:start
