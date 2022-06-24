@@ -1,1 +1,1 @@
-${JDBC_DATASOURCE_URL} ${PORT} ./mvnw spring-boot:start
+USER=${USER} PASSWORD=${PASSWORD} DATABASE_URL=${DATABASE_URL} ./mvnw spring-boot:start
